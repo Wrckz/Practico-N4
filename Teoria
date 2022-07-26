@@ -4,20 +4,52 @@ Explica los siguientes conceptos con tus propias palabras.
 
 1 - ¿Que es Math?
 
+Es un objeto que  tiene propiedades para operar con funciones matemáticas.
+
+
 2 - Explica 5 Metodos Math.
+
+-Math.max() es una función que devuelve el valor mayor de una lista de valores numéricos pasados como parámetros
+-Math.min() devuelve el menor valor de cero o más números.
+-Math.PI corresponde al número PI (aprox  3.14149)
+-Math.pow() devuelve el valor de un número elevado a otro número.
+-Math.sqrt() devuelve la raíz cuadrada de un número.
 
 3 - ¿Que es un String?
 
+es una cadena de caracteres que se utiliza para representar datos textuales.
+
 4 - ¿Que es un booleano?
+
+son un dato primitivo usado en lenguajes de programacion. Tienen 2 valores true o false
 
 5 - ¿Que es una funcion?
 
+es un conjunto de instrucciones que realiza una tarea. Debe tomar una entrada y devolver una salida.
+
 6 - Explica la diferencia entre Undefined y Null
+
+Undefined es un valor que no está definido (todavia) y Null se usa al indicar que no existe valor
 
 7 - ¿Cuales son los operadores de Comparacion?
 
+==  ---> Igual
+!=  ---> distinto
+=== ---> Estrictamente igual
+>   ---> Menor que
+<   ---> Mayor que
+
+
 8 - ¿Cuales son los operadores Logicos?
+
+AND (&&)
+OR (||)
+NOT (!)
 
 9 - ¿A que hace referencia la palabra Clave o Key?
 
+A cada propiedad de un objeto
+
 10 - ¿Para que sirve el Bucle for..in ?
+
+Sirve para recorrer cada clave de un objeto. Finaliza cuando se iteran todas las claves
